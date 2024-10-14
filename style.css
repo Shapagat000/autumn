@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(232, 189, 83);
+    text-align: center;
+    background-image:url(https://hips.hearstapps.com/hmg-prod/images/fall-quotes-autumn-beauty-64a8879f6d38e.jpeg?crop=1xw:0.84375xh;center,top) ;
+    background-size: 900px 500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 300px;
+}
+.title{
+    color:white;
+    margin-bottom: 100px;
+
+
+}
+
+.date{
+    border-radius: 5px;
+    margin: 0 4px;
+    width: 120px;
+    height: 130px;
+    background-color: bisque;
+}
+.dat{
+    border-radius: 5px;
+    margin: 0 4px;
+    width: 120px;
+    height: 130px;
+    background-color: bisque;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 300px;
+
+}
